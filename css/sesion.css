@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url("/img/sesion2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+form {
+    margin-top: 30vh;
+    margin-left: 65vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background: linear-gradient(135deg, #ff8000, #ed730e);
+    width: 60vh;
+    height: 35vh;
+    padding: 20px 25px;
+    box-shadow: 0 10px 40px orange;
+}
+
+form label {
+    margin-bottom: 25px;
+}
+
+.fa-solid {
+    color: rgb(11, 11, 138);
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+form label input {
+    font-size: 20px;
+    width: 350px;
+}
+
+
+
+.link {
+    color: black;
+    margin-bottom: 30px;
+}
+
+
+#button{
+    color: white;
+    background-color: rgb(11, 11, 138);
+    height: 40px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 20px;
+    
+}

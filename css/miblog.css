@@ -1,0 +1,225 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("/img/fondo4.webp");
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el fondo */
+}
+
+.nav {
+  width: 100%;
+  overflow: hidden;
+}
+
+.navbar-right a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  background-color: transparent;
+  transform: scale(1.3);
+}
+
+.navbar-brand {
+  color: white;
+  float: left;
+  margin-top: 10px;
+  margin-left: 50px;
+  font-size: 20px;
+  line-height: 45px;
+}
+
+.navbar-brand i {
+  margin-right: 7px;
+}
+
+.navbar-right {
+  float: right;
+  margin-right: 50px;
+  font-size: 18px;
+}
+
+.navbar-right i {
+  margin-right: 5px;
+}
+
+.div-principal {
+  width: 90%;
+  height: 400px;
+  display: flex;
+  margin-top: 7%;
+  margin-left: 5%;
+}
+
+.contenedor {
+  background-image: radial-gradient(
+    circle at 31.7% -18.3%,
+    #b92daf 0,
+    #8f249c 16.67%,
+    #641883 33.33%,
+    #370a64 50%,
+    #0b0045 66.67%,
+    #00002a 83.33%,
+    #000016 100%
+  );
+  border: 5px outset white;
+  padding: 20px;
+  text-align: center;
+  position: relative;
+  width: 50%;
+  margin-right: 10px;
+}
+
+.contenedor img {
+  width: 150px;
+  height: 170px;
+  margin-top: 12px;
+}
+
+.parrafo {
+  color: white;
+}
+
+.contenedor2 {
+  background-image: radial-gradient(
+    circle at 31.7% -18.3%,
+    #b92daf 0,
+    #8f249c 16.67%,
+    #641883 33.33%,
+    #370a64 50%,
+    #0b0045 66.67%,
+    #00002a 83.33%,
+    #000016 100%
+  );
+  border: 5px outset white;
+  padding: 20px;
+  text-align: center;
+  position: relative;
+  width: 50%;
+  margin-left: 5px;
+  margin-right: 10px;
+}
+
+.contenedor2 img {
+  width: 180px;
+  height: 180px;
+  margin-top: 30px;
+}
+
+.contenedor3 {
+  background-image: radial-gradient(
+    circle at 31.7% -18.3%,
+    #b92daf 0,
+    #8f249c 16.67%,
+    #641883 33.33%,
+    #370a64 50%,
+    #0b0045 66.67%,
+    #00002a 83.33%,
+    #000016 100%
+  );
+  border: 5px outset white;
+  padding: 15px;
+  text-align: center;
+  position: relative;
+  width: 50%;
+  margin-left: 5px;
+}
+
+.contenedor3 img {
+  width: 170px;
+  height: 230px;
+}
+
+.div-principal2 {
+  width: 90%;
+  height: 400px;
+  display: flex;
+  margin-left: 5%;
+  margin-top: 8%;
+  margin-bottom: 15%;
+}
+
+.contenedor4 {
+  background-image: radial-gradient(
+    circle at 31.7% -18.3%,
+    #b92daf 0,
+    #8f249c 16.67%,
+    #641883 33.33%,
+    #370a64 50%,
+    #0b0045 66.67%,
+    #00002a 83.33%,
+    #000016 100%
+  );
+  border: 5px outset white;
+  border-right: 5px outset white;
+  padding: 5px;
+  text-align: center;
+  position: relative;
+  width: 54%;
+  margin-right: 10px;
+}
+
+.contenedor4 img {
+  width: 120px;
+  height: 100px;
+  margin-top: 80px;
+}
+
+
+.contenedor5 {
+  background-image: radial-gradient(
+    circle at 31.7% -18.3%,
+    #b92daf 0,
+    #8f249c 16.67%,
+    #641883 33.33%,
+    #370a64 50%,
+    #0b0045 66.67%,
+    #00002a 83.33%,
+    #000016 100%
+  );
+  border: 5px outset white;
+  padding: 20px;
+  text-align: center;
+  position: relative;
+  width: 50%;
+  margin-left: 5px;
+  margin-right: 10px;
+}
+
+.contenedor5 img {
+  width: 250px;
+  height: 110px;
+  margin-top: 50px;
+}
+
+.contenedor6 {
+  background-image: radial-gradient(
+    circle at 31.7% -18.3%,
+    #b92daf 0,
+    #8f249c 16.67%,
+    #641883 33.33%,
+    #370a64 50%,
+    #0b0045 66.67%,
+    #00002a 83.33%,
+    #000016 100%
+  );
+  border: 5px outset white;
+  padding: 18px;
+  text-align: center;
+  position: relative;
+  width: 50%;
+  
+}
+
+.contenedor6 img {
+  width: 250px;
+  height: 110px;
+  margin-top: 30px;
+}
